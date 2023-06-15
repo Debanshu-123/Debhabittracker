@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Debhabittracker/static/css/main.0d061dde.css",
+    "main.js": "/Debhabittracker/static/js/main.a73bc124.js",
+    "static/media/c.gif": "/Debhabittracker/static/media/c.92b8b1c68e0f5de5b097.gif",
+    "index.html": "/Debhabittracker/index.html",
+    "main.0d061dde.css.map": "/Debhabittracker/static/css/main.0d061dde.css.map",
+    "main.a73bc124.js.map": "/Debhabittracker/static/js/main.a73bc124.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d061dde.css",
+    "static/js/main.a73bc124.js"
+  ]
+}
